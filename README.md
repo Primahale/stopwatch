@@ -44,6 +44,10 @@
 
 <br/>
 
+## Demo link
+
+https://mini-timer.netlify.app
+
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
